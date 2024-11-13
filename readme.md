@@ -42,7 +42,7 @@
 
 ---
 
-### 🛠 **Mi Stack Arsenal**  
+### 🛠 **Mi Stack de desarrollo**  
 - **Frontend**: **React.js**, **Next.js**, **Ionic** (Angular), **Flutter**  
 - **Backend**: **Node.js**, **Express.js**  
 - **Bases de Datos**: **PostgreSQL**, **MySQL**, **Oracle SQL Developer**, **Prisma**  
