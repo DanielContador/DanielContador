@@ -52,7 +52,7 @@
 ---
 
 ### ✨ **Lo que mejor hago**  
-- **Frontend**: Desarrollo de interfaces de usuario dinámicas y optimizadas con **React.js** y **Next.js**.
+- **Frontend**: Desarrollo de interfaces de usuario dinámicas y optimizadas con **React.js**, **Next.js**, **Bootstrap** y **Tailwind CSS**.
 - **Backend**: Construcción de APIs robustas y escalables con **Node.js** y **Express.js**.
 - **Bases de Datos**: Diseño y modelado de bases de datos eficientes con **PostgreSQL** y **MySQL**.
 - **Lenguajes de Programación**: **Java** y **Python** 
