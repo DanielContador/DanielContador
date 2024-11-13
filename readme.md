@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 style="font-weight: bold;">Daniel Contador</h1> 👋
+  <h1 style="font-weight: bold; margin: 0;">Daniel Contador</h1> 👋
 </p>
 ---
 
