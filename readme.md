@@ -1,7 +1,7 @@
 <div align="center">
-  <h1 style="font-weight: bold; font-size: 43px; margin: 0;">Daniel Contador</h1> 👋
+  <h1 style="font-weight: bold; font-size: 43px; margin: 0;">Daniel Contador</h1> 
 </div>
----
+
 
 <p align="center">
   <a href="https://github.com/DanielContador">
@@ -15,6 +15,9 @@
   </a>
 </p>
 
+<div align="center">
+  <h1 style="font-weight: bold; font-size: 36px; margin: 0;">Desarrollador de Software 🚀</h1> 
+</div>
 ---
 
 <p align="center">
