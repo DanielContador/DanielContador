@@ -1,13 +1,19 @@
 <p align="center">
-  <span style="font-size: 2em; font-weight: bold;">Daniel Contador</span> 👋
+  <span style="font-size: 3em; font-weight: bold;">Daniel Contador</span> 👋
 </p>
 
 ---
 
 <p align="center">
-  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DanielContador) 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dcontador)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=html5&logoColor=white)](https://portafoliodanielcontador.my.canva.site/dcontadorportafolio)
+  <a href="https://github.com/DanielContador">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/dcontador">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://portafoliodanielcontador.my.canva.site/dcontadorportafolio">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 ---
@@ -21,6 +27,7 @@
 </p>
 
 ---
+
 
 ---
 
