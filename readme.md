@@ -18,17 +18,18 @@
 <div align="center">
   <h3 style="font-weight: bold; font-size: 21px; margin: 0;">Desarrollador de Software 🚀</h1> 
 </div>
----
 
+
+
+---
 <p align="center">
-  🚀 <strong>Desarrollador de Software</strong> | 🎓 <strong>Ingeniero en Informática</strong> - <strong>DuocUC</strong><br>
+ 🎓 <strong>Ingeniero en Informática</strong> - <strong>DuocUC</strong><br>
   🔧 <strong>Backend & Frontend Developer</strong> | <strong>Node.js</strong> ⚡ <strong>React.js</strong> ⚙️ <strong>Next.js</strong> 🛠️ <strong>Express.js</strong><br>
   📊 <strong>Bases de Datos</strong>: <strong>PostgreSQL</strong> 🗃️ <strong>MySQL</strong> 💡 <strong>Prisma</strong><br>
   🧑‍💻 <strong>Lenguajes</strong>: <strong>Java</strong> 🧑‍💻 <strong>Python</strong> 🎯 <strong>TypeScript</strong> <strong>JavaScript</strong><br>
   💬 <strong>Análisis de Requerimientos</strong>
 </p>
 
----
 
 
 ---
