@@ -1,5 +1,5 @@
 <p align="center">
-  # **Daniel Contador** 👋
+  <span style="font-size: 2em; font-weight: bold;">Daniel Contador</span> 👋
 </p>
 
 ---
@@ -13,12 +13,14 @@
 ---
 
 <p align="center">
-  🚀 **Desarrollador de Software** | 🎓 **Ingeniero en Informática** - **DuocUC**  
-  🔧 **Backend & Frontend Developer** | **Node.js** ⚡ **React.js** ⚙️ **Next.js** 🛠️ **Express.js**  
-  📊 **Bases de Datos**: **PostgreSQL** 🗃️ **MySQL** 💡 **Prisma**  
-  🧑‍💻 **Lenguajes**: **Java** 🧑‍💻 **Python** 🎯 **TypeScript**  **JavaScript**  
-  💬 **Análisis de Requerimientos**
+  🚀 <strong>Desarrollador de Software</strong> | 🎓 <strong>Ingeniero en Informática</strong> - <strong>DuocUC</strong><br>
+  🔧 <strong>Backend & Frontend Developer</strong> | <strong>Node.js</strong> ⚡ <strong>React.js</strong> ⚙️ <strong>Next.js</strong> 🛠️ <strong>Express.js</strong><br>
+  📊 <strong>Bases de Datos</strong>: <strong>PostgreSQL</strong> 🗃️ <strong>MySQL</strong> 💡 <strong>Prisma</strong><br>
+  🧑‍💻 <strong>Lenguajes</strong>: <strong>Java</strong> 🧑‍💻 <strong>Python</strong> 🎯 <strong>TypeScript</strong> <strong>JavaScript</strong><br>
+  💬 <strong>Análisis de Requerimientos</strong>
 </p>
+
+---
 
 ---
 
