@@ -12,7 +12,7 @@
 🔧 **Backend & Frontend Developer** | **Node.js** ⚡ **React.js** ⚙️ **Next.js** 🛠️ **Express.js**  
 📊 **Bases de Datos**: **PostgreSQL** 🗃️ **MySQL** 💡 **Prisma**  
 🧑‍💻 **Lenguajes**: **Java** 🧑‍💻 **Python** 🎯 **TypeScript**  **JavaScript**
-💬 **Análisis de Requerimientos** | 💚 **Open Source & Clean Code Enthusiast**
+💬 **Análisis de Requerimientos** 
 
 ---
 
