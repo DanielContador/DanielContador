@@ -1,5 +1,5 @@
 <div align="center">
-  <p font-weight: bold; margin: 0; font-size: 43px;">Daniel Contador</p> 👋
+  <h1 style="font-weight: bold; font-size: 43px; margin: 0;">Daniel Contador</h1> 👋
 </div>
 ---
 
