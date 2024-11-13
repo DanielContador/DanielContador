@@ -16,7 +16,7 @@
 </p>
 
 <div align="center">
-  <h1 style="font-weight: bold; font-size: 36px; margin: 0;">Desarrollador de Software 🚀</h1> 
+  <h1 style="font-weight: bold; font-size: 21px; margin: 0;">Desarrollador de Software 🚀</h1> 
 </div>
 ---
 
