@@ -1,20 +1,27 @@
-# **Daniel Contador** 👋
+<p align="center">
+  # **Daniel Contador** 👋
+</p>
 
 ---
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DanielContador) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dcontador)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=html5&logoColor=white)](https://portafoliodanielcontador.my.canva.site/dcontadorportafolio)
+<p align="center">
+  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DanielContador) 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dcontador)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=html5&logoColor=white)](https://portafoliodanielcontador.my.canva.site/dcontadorportafolio)
+</p>
 
 ---
 
-🚀 **Desarrollador de Software** | 🎓 **Ingeniero en Informática** - **DuocUC**  
-🔧 **Backend & Frontend Developer** | **Node.js** ⚡ **React.js** ⚙️ **Next.js** 🛠️ **Express.js**  
-📊 **Bases de Datos**: **PostgreSQL** 🗃️ **MySQL** 💡 **Prisma**  
-🧑‍💻 **Lenguajes**: **Java** 🧑‍💻 **Python** 🎯 **TypeScript**  **JavaScript**
-💬 **Análisis de Requerimientos** 
+<p align="center">
+  🚀 **Desarrollador de Software** | 🎓 **Ingeniero en Informática** - **DuocUC**  
+  🔧 **Backend & Frontend Developer** | **Node.js** ⚡ **React.js** ⚙️ **Next.js** 🛠️ **Express.js**  
+  📊 **Bases de Datos**: **PostgreSQL** 🗃️ **MySQL** 💡 **Prisma**  
+  🧑‍💻 **Lenguajes**: **Java** 🧑‍💻 **Python** 🎯 **TypeScript**  **JavaScript**  
+  💬 **Análisis de Requerimientos**
+</p>
 
 ---
+
 
 ### 🔥 **Backend Developer (70%) | Frontend Developer (30%)** 🔥
 
