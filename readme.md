@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/dcontador">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://portafoliodanielcontador.my.canva.site/dcontadorportafolio">
+  <a href="https://pagina-portafolio-ten.vercel.app/index.html">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=html5&logoColor=white" alt="Portfolio" />
   </a>
 </p>
