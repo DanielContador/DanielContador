@@ -35,7 +35,7 @@
 ---
 
 
-### 🔥 **Backend Developer (70%) | Frontend Developer (30%)** 🔥
+### 🔥 **Backend Developer (60%) | Frontend Developer (40%)** 🔥
 
 💻 **Creador de soluciones tecnológicas**  
 📚 Con experiencia en análisis de requerimientos y desarrollo de software
